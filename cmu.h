@@ -69,7 +69,7 @@ typedef struct simulation_t
     struct entities_set_t entities;
     int start_event_id;
     int is_running;
-    void (*compute_stat_indicators)(struct simulation_t *s);
+    void (*compute_stat_indicators)(struct simulation_t *s, double time_of_event);
 } simulation;
 
 #endif // CMU_H
@@ -235,6 +235,14 @@ void simulation_insert_event(simulation *sim, int event_id, void (*event_func)(s
 }
 
 /**
+ * insert the function to compute the stat indicators
+*/
+void simulation_insert_compute_stat_indicators(simulation *sim, void (*compute_stat_indicators)(simulation *s, double time_of_event))
+{
+    sim->compute_stat_indicators = compute_stat_indicators;
+}
+
+/**
  * set the start event
  * the start event will be called when the simulation starts, it must be set in the event list
  */
@@ -295,14 +303,14 @@ void simulation_start(simulation *sim)
     while (sim->s.task_list != NULL && sim->is_running)
     {
         task *current_task = scheduler_pull(&sim->s);
+        
+        if (sim->compute_stat_indicators != NULL)
+        {
+            sim->compute_stat_indicators(sim, current_task->time);
+        }
         sim->s.system_time = current_task->time;
         event *current_event = event_list_get(&sim->e, current_task->event_id);
         current_event->event_func(sim, current_task->entity_id);
-        if (sim->compute_stat_indicators != NULL)
-        {
-            printf("%p\n", sim->compute_stat_indicators);
-            sim->compute_stat_indicators(sim);
-        }
         free(current_task);
     }
 
@@ -311,8 +319,7 @@ void simulation_start(simulation *sim)
     // todo compute the stat indicators
     if (sim->compute_stat_indicators != NULL)
     {
-        printf("%p\n", sim->compute_stat_indicators);
-        sim->compute_stat_indicators(sim);
+        sim->compute_stat_indicators(sim, sim->s.system_time);
     }
 }
 
@@ -380,7 +387,7 @@ int entities_set_insert(entities_set *es, struct entity_data_t *entity)
 /**
  * get an entity from the entities set
  */
-struct entity_data_t *entities_set_get(entities_set *es, unsigned int id)
+struct entity_data_t *entities_set_get(entities_set *es, int id)
 {
     entity_element *current_entity_element = es->head;
     while (current_entity_element != NULL)
@@ -397,7 +404,7 @@ struct entity_data_t *entities_set_get(entities_set *es, unsigned int id)
 /**
  * remove an entity from the entities set
  */
-void entities_set_remove(entities_set *es, unsigned int id)
+void entities_set_remove(entities_set *es, int id)
 {
     entity_element *current_entity_element = es->head;
     entity_element *previous_entity_element = NULL;

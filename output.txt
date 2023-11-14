@@ -1,0 +1,1080 @@
+Q1: 0
+Q2: 0
+Start (time: 0.000000)
+Q1: 0
+Q2: 0
+Arrivee client (time: 1.322678)
+Q1: 0
+Q2: 0
+Arrivee queue 1 (time: 1.608104)
+Q1: 1
+Q2: 0
+Arrivee client (time: 1.608104)
+Q1: 1
+Q2: 0
+Acces counter 1 (time: 1.608104)
+Q1: 0
+Q2: 0
+Arrivee queue 1 (time: 2.666342)
+Q1: 1
+Q2: 0
+Arrivee client (time: 2.666342)
+Q1: 1
+Q2: 0
+Depart counter 1 (time: 3.178185)
+Q1: 1
+Q2: 0
+Arrivee queue 2 (time: 3.178185)
+Q1: 1
+Q2: 1
+Acces counter 1 (time: 3.178185)
+Q1: 0
+Q2: 1
+Acces counter 2 (time: 3.178185)
+Q1: 0
+Q2: 0
+Depart counter 2 (time: 3.394952)
+Q1: 0
+Q2: 0
+Depart counter 1 (time: 4.483246)
+Q1: 0
+Q2: 0
+Arrivee queue 2 (time: 4.483246)
+Q1: 0
+Q2: 1
+Acces counter 2 (time: 4.483246)
+Q1: 0
+Q2: 0
+Arrivee queue 1 (time: 6.354512)
+Q1: 1
+Q2: 0
+Arrivee client (time: 6.354512)
+Q1: 1
+Q2: 0
+Acces counter 1 (time: 6.354512)
+Q1: 0
+Q2: 0
+Arrivee queue 1 (time: 6.428401)
+Q1: 1
+Q2: 0
+Arrivee client (time: 6.428401)
+Q1: 1
+Q2: 0
+Arrivee queue 1 (time: 6.523903)
+Q1: 2
+Q2: 0
+Arrivee client (time: 6.523903)
+Q1: 2
+Q2: 0
+Depart counter 1 (time: 6.899762)
+Q1: 2
+Q2: 0
+Arrivee queue 2 (time: 6.899762)
+Q1: 2
+Q2: 1
+Acces counter 1 (time: 6.899762)
+Q1: 1
+Q2: 1
+Arrivee queue 1 (time: 7.282673)
+Q1: 2
+Q2: 1
+Arrivee client (time: 7.282673)
+Q1: 2
+Q2: 1
+Depart counter 1 (time: 7.483748)
+Q1: 2
+Q2: 1
+Arrivee queue 2 (time: 7.483748)
+Q1: 2
+Q2: 2
+Acces counter 1 (time: 7.483748)
+Q1: 1
+Q2: 2
+Depart counter 1 (time: 7.514781)
+Q1: 1
+Q2: 2
+Arrivee queue 2 (time: 7.514781)
+Q1: 1
+Q2: 3
+Acces counter 1 (time: 7.514781)
+Q1: 0
+Q2: 3
+Depart counter 1 (time: 7.589648)
+Q1: 0
+Q2: 3
+Arrivee queue 2 (time: 7.589648)
+Q1: 0
+Q2: 4
+Depart counter 2 (time: 8.670499)
+Q1: 0
+Q2: 4
+Acces counter 2 (time: 8.670499)
+Q1: 0
+Q2: 3
+Arrivee queue 1 (time: 9.518607)
+Q1: 1
+Q2: 3
+Arrivee client (time: 9.518607)
+Q1: 1
+Q2: 3
+Acces counter 1 (time: 9.518607)
+Q1: 0
+Q2: 3
+Depart counter 1 (time: 9.760576)
+Q1: 0
+Q2: 3
+Arrivee queue 2 (time: 9.760576)
+Q1: 0
+Q2: 4
+Depart counter 2 (time: 9.943225)
+Q1: 0
+Q2: 4
+Acces counter 2 (time: 9.943225)
+Q1: 0
+Q2: 3
+Arrivee queue 1 (time: 10.119554)
+Q1: 1
+Q2: 3
+Arrivee client (time: 10.119554)
+Q1: 1
+Q2: 3
+Acces counter 1 (time: 10.119554)
+Q1: 0
+Q2: 3
+Arrivee queue 1 (time: 10.151143)
+Q1: 1
+Q2: 3
+Arrivee client (time: 10.151143)
+Q1: 1
+Q2: 3
+Depart counter 1 (time: 10.397406)
+Q1: 1
+Q2: 3
+Arrivee queue 2 (time: 10.397406)
+Q1: 1
+Q2: 4
+Acces counter 1 (time: 10.397406)
+Q1: 0
+Q2: 4
+Depart counter 1 (time: 10.400295)
+Q1: 0
+Q2: 4
+Arrivee queue 2 (time: 10.400295)
+Q1: 0
+Q2: 5
+Depart counter 2 (time: 10.494820)
+Q1: 0
+Q2: 5
+Acces counter 2 (time: 10.494820)
+Q1: 0
+Q2: 4
+Arrivee queue 1 (time: 10.526429)
+Q1: 1
+Q2: 4
+Arrivee client (time: 10.526429)
+Q1: 1
+Q2: 4
+Acces counter 1 (time: 10.526429)
+Q1: 0
+Q2: 4
+Depart counter 2 (time: 10.628129)
+Q1: 0
+Q2: 4
+Acces counter 2 (time: 10.628129)
+Q1: 0
+Q2: 3
+Depart counter 2 (time: 11.001086)
+Q1: 0
+Q2: 3
+Acces counter 2 (time: 11.001086)
+Q1: 0
+Q2: 2
+Arrivee queue 1 (time: 11.955800)
+Q1: 1
+Q2: 2
+Arrivee client (time: 11.955800)
+Q1: 1
+Q2: 2
+Arrivee queue 1 (time: 11.968739)
+Q1: 2
+Q2: 2
+Arrivee client (time: 11.968739)
+Q1: 2
+Q2: 2
+Depart counter 2 (time: 12.075870)
+Q1: 2
+Q2: 2
+Acces counter 2 (time: 12.075870)
+Q1: 2
+Q2: 1
+Depart counter 1 (time: 12.494391)
+Q1: 2
+Q2: 1
+Arrivee queue 2 (time: 12.494391)
+Q1: 2
+Q2: 2
+Acces counter 1 (time: 12.494391)
+Q1: 1
+Q2: 2
+Depart counter 2 (time: 12.582779)
+Q1: 1
+Q2: 2
+Acces counter 2 (time: 12.582779)
+Q1: 1
+Q2: 1
+Arrivee queue 1 (time: 12.699573)
+Q1: 2
+Q2: 1
+Arrivee client (time: 12.699573)
+Q1: 2
+Q2: 1
+Depart counter 1 (time: 12.706265)
+Q1: 2
+Q2: 1
+Arrivee queue 2 (time: 12.706265)
+Q1: 2
+Q2: 2
+Acces counter 1 (time: 12.706265)
+Q1: 1
+Q2: 2
+Depart counter 2 (time: 12.752023)
+Q1: 1
+Q2: 2
+Acces counter 2 (time: 12.752023)
+Q1: 1
+Q2: 1
+Depart counter 2 (time: 12.766935)
+Q1: 1
+Q2: 1
+Acces counter 2 (time: 12.766935)
+Q1: 1
+Q2: 0
+Depart counter 1 (time: 12.894829)
+Q1: 1
+Q2: 0
+Arrivee queue 2 (time: 12.894829)
+Q1: 1
+Q2: 1
+Acces counter 1 (time: 12.894829)
+Q1: 0
+Q2: 1
+Depart counter 1 (time: 13.074706)
+Q1: 0
+Q2: 1
+Arrivee queue 2 (time: 13.074706)
+Q1: 0
+Q2: 2
+Arrivee queue 1 (time: 13.091863)
+Q1: 1
+Q2: 2
+Arrivee client (time: 13.091863)
+Q1: 1
+Q2: 2
+Acces counter 1 (time: 13.091863)
+Q1: 0
+Q2: 2
+Depart counter 1 (time: 13.149954)
+Q1: 0
+Q2: 2
+Arrivee queue 2 (time: 13.149954)
+Q1: 0
+Q2: 3
+Arrivee queue 1 (time: 13.183604)
+Q1: 1
+Q2: 3
+Arrivee client (time: 13.183604)
+Q1: 1
+Q2: 3
+Acces counter 1 (time: 13.183604)
+Q1: 0
+Q2: 3
+Depart counter 2 (time: 13.462948)
+Q1: 0
+Q2: 3
+Acces counter 2 (time: 13.462948)
+Q1: 0
+Q2: 2
+Arrivee queue 1 (time: 13.565875)
+Q1: 1
+Q2: 2
+Arrivee client (time: 13.565875)
+Q1: 1
+Q2: 2
+Arrivee queue 1 (time: 13.802608)
+Q1: 2
+Q2: 2
+Arrivee client (time: 13.802608)
+Q1: 2
+Q2: 2
+Depart counter 1 (time: 13.859838)
+Q1: 2
+Q2: 2
+Arrivee queue 2 (time: 13.859838)
+Q1: 2
+Q2: 3
+Acces counter 1 (time: 13.859838)
+Q1: 1
+Q2: 3
+Depart counter 2 (time: 14.396147)
+Q1: 1
+Q2: 3
+Acces counter 2 (time: 14.396147)
+Q1: 1
+Q2: 2
+Depart counter 1 (time: 14.821549)
+Q1: 1
+Q2: 2
+Arrivee queue 2 (time: 14.821549)
+Q1: 1
+Q2: 3
+Acces counter 1 (time: 14.821549)
+Q1: 0
+Q2: 3
+Arrivee queue 1 (time: 14.889628)
+Q1: 1
+Q2: 3
+Arrivee client (time: 14.889628)
+Q1: 1
+Q2: 3
+Depart counter 1 (time: 14.906662)
+Q1: 1
+Q2: 3
+Arrivee queue 2 (time: 14.906662)
+Q1: 1
+Q2: 4
+Acces counter 1 (time: 14.906662)
+Q1: 0
+Q2: 4
+Arrivee queue 1 (time: 14.929544)
+Q1: 1
+Q2: 4
+Arrivee client (time: 14.929544)
+Q1: 1
+Q2: 4
+Arrivee queue 1 (time: 15.086880)
+Q1: 2
+Q2: 4
+Arrivee client (time: 15.086880)
+Q1: 2
+Q2: 4
+Depart counter 1 (time: 15.295100)
+Q1: 2
+Q2: 4
+Arrivee queue 2 (time: 15.295100)
+Q1: 2
+Q2: 5
+Acces counter 1 (time: 15.295100)
+Q1: 1
+Q2: 5
+Arrivee queue 1 (time: 15.543768)
+Q1: 2
+Q2: 5
+Arrivee client (time: 15.543768)
+Q1: 2
+Q2: 5
+Arrivee queue 1 (time: 15.705937)
+Q1: 3
+Q2: 5
+Arrivee client (time: 15.705937)
+Q1: 3
+Q2: 5
+Depart counter 1 (time: 16.234784)
+Q1: 3
+Q2: 5
+Arrivee queue 2 (time: 16.234784)
+Q1: 3
+Q2: 6
+Acces counter 1 (time: 16.234784)
+Q1: 2
+Q2: 6
+Arrivee queue 1 (time: 16.407968)
+Q1: 3
+Q2: 6
+Arrivee client (time: 16.407968)
+Q1: 3
+Q2: 6
+Arrivee queue 1 (time: 16.501818)
+Q1: 4
+Q2: 6
+Arrivee client (time: 16.501818)
+Q1: 4
+Q2: 6
+Depart counter 1 (time: 16.719041)
+Q1: 4
+Q2: 6
+Arrivee queue 2 (time: 16.719041)
+Q1: 4
+Q2: 7
+Acces counter 1 (time: 16.719041)
+Q1: 3
+Q2: 7
+Depart counter 1 (time: 16.872081)
+Q1: 3
+Q2: 7
+Arrivee queue 2 (time: 16.872081)
+Q1: 3
+Q2: 8
+Acces counter 1 (time: 16.872081)
+Q1: 2
+Q2: 8
+Depart counter 1 (time: 16.947731)
+Q1: 2
+Q2: 8
+Arrivee queue 2 (time: 16.947731)
+Q1: 2
+Q2: 9
+Acces counter 1 (time: 16.947731)
+Q1: 1
+Q2: 9
+Depart counter 1 (time: 17.262516)
+Q1: 1
+Q2: 9
+Arrivee queue 2 (time: 17.262516)
+Q1: 1
+Q2: 10
+Acces counter 1 (time: 17.262516)
+Q1: 0
+Q2: 10
+Depart counter 2 (time: 17.484545)
+Q1: 0
+Q2: 10
+Acces counter 2 (time: 17.484545)
+Q1: 0
+Q2: 9
+Depart counter 2 (time: 17.891279)
+Q1: 0
+Q2: 9
+Acces counter 2 (time: 17.891279)
+Q1: 0
+Q2: 8
+Depart counter 1 (time: 17.952865)
+Q1: 0
+Q2: 8
+Arrivee queue 2 (time: 17.952865)
+Q1: 0
+Q2: 9
+Arrivee queue 1 (time: 18.357688)
+Q1: 1
+Q2: 9
+Arrivee client (time: 18.357688)
+Q1: 1
+Q2: 9
+Acces counter 1 (time: 18.357688)
+Q1: 0
+Q2: 9
+Depart counter 2 (time: 18.577723)
+Q1: 0
+Q2: 9
+Acces counter 2 (time: 18.577723)
+Q1: 0
+Q2: 8
+Depart counter 1 (time: 18.998643)
+Q1: 0
+Q2: 8
+Arrivee queue 2 (time: 18.998643)
+Q1: 0
+Q2: 9
+Depart counter 2 (time: 19.296448)
+Q1: 0
+Q2: 9
+Acces counter 2 (time: 19.296448)
+Q1: 0
+Q2: 8
+Depart counter 2 (time: 19.902528)
+Q1: 0
+Q2: 8
+Acces counter 2 (time: 19.902528)
+Q1: 0
+Q2: 7
+Arrivee queue 1 (time: 21.383992)
+Q1: 1
+Q2: 7
+Arrivee client (time: 21.383992)
+Q1: 1
+Q2: 7
+Acces counter 1 (time: 21.383992)
+Q1: 0
+Q2: 7
+Depart counter 2 (time: 21.478173)
+Q1: 0
+Q2: 7
+Acces counter 2 (time: 21.478173)
+Q1: 0
+Q2: 6
+Depart counter 2 (time: 21.618152)
+Q1: 0
+Q2: 6
+Acces counter 2 (time: 21.618152)
+Q1: 0
+Q2: 5
+Depart counter 2 (time: 21.885636)
+Q1: 0
+Q2: 5
+Acces counter 2 (time: 21.885636)
+Q1: 0
+Q2: 4
+Depart counter 1 (time: 21.974245)
+Q1: 0
+Q2: 4
+Arrivee queue 2 (time: 21.974245)
+Q1: 0
+Q2: 5
+Depart counter 2 (time: 22.103638)
+Q1: 0
+Q2: 5
+Acces counter 2 (time: 22.103638)
+Q1: 0
+Q2: 4
+Arrivee queue 1 (time: 22.399253)
+Q1: 1
+Q2: 4
+Arrivee client (time: 22.399253)
+Q1: 1
+Q2: 4
+Acces counter 1 (time: 22.399253)
+Q1: 0
+Q2: 4
+Depart counter 2 (time: 22.498067)
+Q1: 0
+Q2: 4
+Acces counter 2 (time: 22.498067)
+Q1: 0
+Q2: 3
+Depart counter 2 (time: 22.848481)
+Q1: 0
+Q2: 3
+Acces counter 2 (time: 22.848481)
+Q1: 0
+Q2: 2
+Depart counter 2 (time: 22.879964)
+Q1: 0
+Q2: 2
+Acces counter 2 (time: 22.879964)
+Q1: 0
+Q2: 1
+Depart counter 2 (time: 22.880977)
+Q1: 0
+Q2: 1
+Acces counter 2 (time: 22.880977)
+Q1: 0
+Q2: 0
+Depart counter 2 (time: 24.122824)
+Q1: 0
+Q2: 0
+Depart counter 1 (time: 24.688284)
+Q1: 0
+Q2: 0
+Arrivee queue 2 (time: 24.688284)
+Q1: 0
+Q2: 1
+Acces counter 2 (time: 24.688284)
+Q1: 0
+Q2: 0
+Depart counter 2 (time: 24.866846)
+Q1: 0
+Q2: 0
+Arrivee queue 1 (time: 24.923586)
+Q1: 1
+Q2: 0
+Arrivee client (time: 24.923586)
+Q1: 1
+Q2: 0
+Acces counter 1 (time: 24.923586)
+Q1: 0
+Q2: 0
+Arrivee queue 1 (time: 25.382251)
+Q1: 1
+Q2: 0
+Arrivee client (time: 25.382251)
+Q1: 1
+Q2: 0
+Depart counter 1 (time: 25.391043)
+Q1: 1
+Q2: 0
+Arrivee queue 2 (time: 25.391043)
+Q1: 1
+Q2: 1
+Acces counter 1 (time: 25.391043)
+Q1: 0
+Q2: 1
+Acces counter 2 (time: 25.391043)
+Q1: 0
+Q2: 0
+Arrivee queue 1 (time: 25.782225)
+Q1: 1
+Q2: 0
+Arrivee client (time: 25.782225)
+Q1: 1
+Q2: 0
+Arrivee queue 1 (time: 26.325649)
+Q1: 2
+Q2: 0
+Arrivee client (time: 26.325649)
+Q1: 2
+Q2: 0
+Depart counter 1 (time: 26.831667)
+Q1: 2
+Q2: 0
+Arrivee queue 2 (time: 26.831667)
+Q1: 2
+Q2: 1
+Acces counter 1 (time: 26.831667)
+Q1: 1
+Q2: 1
+Depart counter 1 (time: 26.973033)
+Q1: 1
+Q2: 1
+Arrivee queue 2 (time: 26.973033)
+Q1: 1
+Q2: 2
+Acces counter 1 (time: 26.973033)
+Q1: 0
+Q2: 2
+Depart counter 1 (time: 27.489266)
+Q1: 0
+Q2: 2
+Arrivee queue 2 (time: 27.489266)
+Q1: 0
+Q2: 3
+Arrivee queue 1 (time: 27.584353)
+Q1: 1
+Q2: 3
+Arrivee client (time: 27.584353)
+Q1: 1
+Q2: 3
+Acces counter 1 (time: 27.584353)
+Q1: 0
+Q2: 3
+Arrivee queue 1 (time: 27.665731)
+Q1: 1
+Q2: 3
+Arrivee client (time: 27.665731)
+Q1: 1
+Q2: 3
+Depart counter 1 (time: 28.746420)
+Q1: 1
+Q2: 3
+Arrivee queue 2 (time: 28.746420)
+Q1: 1
+Q2: 4
+Acces counter 1 (time: 28.746420)
+Q1: 0
+Q2: 4
+Depart counter 2 (time: 29.264689)
+Q1: 0
+Q2: 4
+Acces counter 2 (time: 29.264689)
+Q1: 0
+Q2: 3
+Depart counter 1 (time: 29.408705)
+Q1: 0
+Q2: 3
+Arrivee queue 2 (time: 29.408705)
+Q1: 0
+Q2: 4
+Arrivee queue 1 (time: 29.830989)
+Q1: 1
+Q2: 4
+Arrivee client (time: 29.830989)
+Q1: 1
+Q2: 4
+Acces counter 1 (time: 29.830989)
+Q1: 0
+Q2: 4
+Depart counter 1 (time: 29.954529)
+Q1: 0
+Q2: 4
+Arrivee queue 2 (time: 29.954529)
+Q1: 0
+Q2: 5
+Arrivee queue 1 (time: 30.494623)
+Q1: 1
+Q2: 5
+Arrivee client (time: 30.494623)
+Q1: 1
+Q2: 5
+Acces counter 1 (time: 30.494623)
+Q1: 0
+Q2: 5
+Depart counter 2 (time: 30.554301)
+Q1: 0
+Q2: 5
+Acces counter 2 (time: 30.554301)
+Q1: 0
+Q2: 4
+Depart counter 1 (time: 30.755763)
+Q1: 0
+Q2: 4
+Arrivee queue 2 (time: 30.755763)
+Q1: 0
+Q2: 5
+Arrivee queue 1 (time: 30.784206)
+Q1: 1
+Q2: 5
+Arrivee client (time: 30.784206)
+Q1: 1
+Q2: 5
+Acces counter 1 (time: 30.784206)
+Q1: 0
+Q2: 5
+Depart counter 1 (time: 31.209617)
+Q1: 0
+Q2: 5
+Arrivee queue 2 (time: 31.209617)
+Q1: 0
+Q2: 6
+Depart counter 2 (time: 32.000468)
+Q1: 0
+Q2: 6
+Acces counter 2 (time: 32.000468)
+Q1: 0
+Q2: 5
+Depart counter 2 (time: 32.052897)
+Q1: 0
+Q2: 5
+Acces counter 2 (time: 32.052897)
+Q1: 0
+Q2: 4
+Depart counter 2 (time: 32.086100)
+Q1: 0
+Q2: 4
+Acces counter 2 (time: 32.086100)
+Q1: 0
+Q2: 3
+Arrivee queue 1 (time: 32.505137)
+Q1: 1
+Q2: 3
+Arrivee client (time: 32.505137)
+Q1: 1
+Q2: 3
+Acces counter 1 (time: 32.505137)
+Q1: 0
+Q2: 3
+Depart counter 2 (time: 33.581959)
+Q1: 0
+Q2: 3
+Acces counter 2 (time: 33.581959)
+Q1: 0
+Q2: 2
+Depart counter 2 (time: 33.710149)
+Q1: 0
+Q2: 2
+Acces counter 2 (time: 33.710149)
+Q1: 0
+Q2: 1
+Depart counter 2 (time: 33.719972)
+Q1: 0
+Q2: 1
+Acces counter 2 (time: 33.719972)
+Q1: 0
+Q2: 0
+Arrivee queue 1 (time: 36.254972)
+Q1: 1
+Q2: 0
+Arrivee client (time: 36.254972)
+Q1: 1
+Q2: 0
+Depart counter 1 (time: 36.935186)
+Q1: 1
+Q2: 0
+Arrivee queue 2 (time: 36.935186)
+Q1: 1
+Q2: 1
+Acces counter 1 (time: 36.935186)
+Q1: 0
+Q2: 1
+Depart counter 1 (time: 37.083394)
+Q1: 0
+Q2: 1
+Arrivee queue 2 (time: 37.083394)
+Q1: 0
+Q2: 2
+Arrivee queue 1 (time: 38.384731)
+Q1: 1
+Q2: 2
+Arrivee client (time: 38.384731)
+Q1: 1
+Q2: 2
+Acces counter 1 (time: 38.384731)
+Q1: 0
+Q2: 2
+Depart counter 1 (time: 38.706265)
+Q1: 0
+Q2: 2
+Arrivee queue 2 (time: 38.706265)
+Q1: 0
+Q2: 3
+Arrivee queue 1 (time: 38.842353)
+Q1: 1
+Q2: 3
+Arrivee client (time: 38.842353)
+Q1: 1
+Q2: 3
+Acces counter 1 (time: 38.842353)
+Q1: 0
+Q2: 3
+Depart counter 1 (time: 39.034006)
+Q1: 0
+Q2: 3
+Arrivee queue 2 (time: 39.034006)
+Q1: 0
+Q2: 4
+Arrivee queue 1 (time: 39.577316)
+Q1: 1
+Q2: 4
+Arrivee client (time: 39.577316)
+Q1: 1
+Q2: 4
+Acces counter 1 (time: 39.577316)
+Q1: 0
+Q2: 4
+Arrivee queue 1 (time: 40.015484)
+Q1: 1
+Q2: 4
+Arrivee client (time: 40.015484)
+Q1: 1
+Q2: 4
+Depart counter 2 (time: 40.311150)
+Q1: 1
+Q2: 4
+Acces counter 2 (time: 40.311150)
+Q1: 1
+Q2: 3
+Depart counter 2 (time: 41.005436)
+Q1: 1
+Q2: 3
+Acces counter 2 (time: 41.005436)
+Q1: 1
+Q2: 2
+Depart counter 1 (time: 41.543445)
+Q1: 1
+Q2: 2
+Arrivee queue 2 (time: 41.543445)
+Q1: 1
+Q2: 3
+Acces counter 1 (time: 41.543445)
+Q1: 0
+Q2: 3
+Depart counter 2 (time: 41.562341)
+Q1: 0
+Q2: 3
+Acces counter 2 (time: 41.562341)
+Q1: 0
+Q2: 2
+Depart counter 1 (time: 41.567399)
+Q1: 0
+Q2: 2
+Arrivee queue 2 (time: 41.567399)
+Q1: 0
+Q2: 3
+Depart counter 2 (time: 41.946628)
+Q1: 0
+Q2: 3
+Acces counter 2 (time: 41.946628)
+Q1: 0
+Q2: 2
+Depart counter 2 (time: 42.329748)
+Q1: 0
+Q2: 2
+Acces counter 2 (time: 42.329748)
+Q1: 0
+Q2: 1
+Arrivee queue 1 (time: 43.127458)
+Q1: 1
+Q2: 1
+Arrivee client (time: 43.127458)
+Q1: 1
+Q2: 1
+Acces counter 1 (time: 43.127458)
+Q1: 0
+Q2: 1
+Arrivee queue 1 (time: 43.242770)
+Q1: 1
+Q2: 1
+Arrivee client (time: 43.242770)
+Q1: 1
+Q2: 1
+Depart counter 2 (time: 43.262828)
+Q1: 1
+Q2: 1
+Acces counter 2 (time: 43.262828)
+Q1: 1
+Q2: 0
+Depart counter 2 (time: 43.664960)
+Q1: 1
+Q2: 0
+Depart counter 1 (time: 44.374879)
+Q1: 1
+Q2: 0
+Arrivee queue 2 (time: 44.374879)
+Q1: 1
+Q2: 1
+Acces counter 1 (time: 44.374879)
+Q1: 0
+Q2: 1
+Acces counter 2 (time: 44.374879)
+Q1: 0
+Q2: 0
+Depart counter 1 (time: 44.482964)
+Q1: 0
+Q2: 0
+Arrivee queue 2 (time: 44.482964)
+Q1: 0
+Q2: 1
+Arrivee queue 1 (time: 44.888803)
+Q1: 1
+Q2: 1
+Arrivee client (time: 44.888803)
+Q1: 1
+Q2: 1
+Acces counter 1 (time: 44.888803)
+Q1: 0
+Q2: 1
+Arrivee queue 1 (time: 45.089008)
+Q1: 1
+Q2: 1
+Arrivee client (time: 45.089008)
+Q1: 1
+Q2: 1
+Depart counter 2 (time: 45.214671)
+Q1: 1
+Q2: 1
+Acces counter 2 (time: 45.214671)
+Q1: 1
+Q2: 0
+Depart counter 2 (time: 45.435587)
+Q1: 1
+Q2: 0
+Depart counter 1 (time: 45.527574)
+Q1: 1
+Q2: 0
+Arrivee queue 2 (time: 45.527574)
+Q1: 1
+Q2: 1
+Acces counter 1 (time: 45.527574)
+Q1: 0
+Q2: 1
+Acces counter 2 (time: 45.527574)
+Q1: 0
+Q2: 0
+Depart counter 1 (time: 45.895430)
+Q1: 0
+Q2: 0
+Arrivee queue 2 (time: 45.895430)
+Q1: 0
+Q2: 1
+Arrivee queue 1 (time: 46.177449)
+Q1: 1
+Q2: 1
+Arrivee client (time: 46.177449)
+Q1: 1
+Q2: 1
+Acces counter 1 (time: 46.177449)
+Q1: 0
+Q2: 1
+Arrivee queue 1 (time: 46.420633)
+Q1: 1
+Q2: 1
+Arrivee client (time: 46.420633)
+Q1: 1
+Q2: 1
+Depart counter 2 (time: 46.446403)
+Q1: 1
+Q2: 1
+Acces counter 2 (time: 46.446403)
+Q1: 1
+Q2: 0
+Depart counter 2 (time: 46.664512)
+Q1: 1
+Q2: 0
+Depart counter 1 (time: 46.723307)
+Q1: 1
+Q2: 0
+Arrivee queue 2 (time: 46.723307)
+Q1: 1
+Q2: 1
+Acces counter 1 (time: 46.723307)
+Q1: 0
+Q2: 1
+Acces counter 2 (time: 46.723307)
+Q1: 0
+Q2: 0
+Depart counter 1 (time: 47.107804)
+Q1: 0
+Q2: 0
+Arrivee queue 2 (time: 47.107804)
+Q1: 0
+Q2: 1
+Arrivee queue 1 (time: 47.472148)
+Q1: 1
+Q2: 1
+Arrivee client (time: 47.472148)
+Q1: 1
+Q2: 1
+Acces counter 1 (time: 47.472148)
+Q1: 0
+Q2: 1
+Arrivee queue 1 (time: 48.345442)
+Q1: 1
+Q2: 1
+Arrivee client (time: 48.345442)
+Q1: 1
+Q2: 1
+Depart counter 2 (time: 48.380575)
+Q1: 1
+Q2: 1
+Acces counter 2 (time: 48.380575)
+Q1: 1
+Q2: 0
+Depart counter 1 (time: 48.567712)
+Q1: 1
+Q2: 0
+Arrivee queue 2 (time: 48.567712)
+Q1: 1
+Q2: 1
+Acces counter 1 (time: 48.567712)
+Q1: 0
+Q2: 1
+Depart counter 1 (time: 48.677954)
+Q1: 0
+Q2: 1
+Arrivee queue 2 (time: 48.677954)
+Q1: 0
+Q2: 2
+Arrivee queue 1 (time: 48.794675)
+Q1: 1
+Q2: 2
+Arrivee client (time: 48.794675)
+Q1: 1
+Q2: 2
+Acces counter 1 (time: 48.794675)
+Q1: 0
+Q2: 2
+Arrivee queue 1 (time: 49.153642)
+Q1: 1
+Q2: 2
+Arrivee client (time: 49.153642)
+Q1: 1
+Q2: 2
+Depart counter 1 (time: 49.846409)
+Q1: 1
+Q2: 2
+Arrivee queue 2 (time: 49.846409)
+Q1: 1
+Q2: 3
+Acces counter 1 (time: 49.846409)
+Q1: 0
+Q2: 3
+Depart counter 2 (time: 49.933620)
+Q1: 0
+Q2: 3
+Acces counter 2 (time: 49.933620)
+Q1: 0
+Q2: 2
+End (time: 50.000000)
+Q1: 0
+Q2: 2
+NbC: 53
+UseRate: 0.670283
+TailleMoyFile: 0.363219
+TpsMoyAtt: 0.342659
