@@ -306,7 +306,14 @@ void simulation_start(simulation *sim)
         free(current_task);
     }
 
+    sim->is_running = 0;
+
     // todo compute the stat indicators
+    if (sim->compute_stat_indicators != NULL)
+    {
+        printf("%p\n", sim->compute_stat_indicators);
+        sim->compute_stat_indicators(sim);
+    }
 }
 
 void entities_set_clean(entities_set *es);
