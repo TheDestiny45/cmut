@@ -6,13 +6,16 @@ EXEC=cmu
 all: $(EXEC)
 
 cmu: cmu.o
-	$(CC) -o $@ $^ $(LDFLAGS)
+	$(CC) -o build/$@ build/$^ $(LDFLAGS)
 
 cmu.o: cmu.c cmu.h
-	$(CC) -o $@ -c $< $(CFLAGS)
+	$(CC) -o build/$@ -c $< $(CFLAGS)
 
 clean:
-	rm -rf *.o
+	rm -rf build/
+
+exec:
+	./build/$(EXEC)
 
 mrproper: clean
 	rm -rf $(EXEC)
